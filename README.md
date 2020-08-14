@@ -1,6 +1,6 @@
 
 # jmolivas
 
-Co-founder of [@OctahedroidHQ](https://octahedroid.com/) Creator of [@DrupalConsole](https://drupalconsole.com/)
+## Hi, I am Jesus Manuel Olivas
 
-Interested in ReactJS , GraphQL, GatsbyJS, NextJS, DevOps, Drupal & Symfony.
+Co-founder of Octahedroid, creator of Drupal Console. In this site, you will find posts about JAMstack, GatsbyJS, NextJS, GraphQL, Cloud Native Architectures, Automation and CMS integrations.
