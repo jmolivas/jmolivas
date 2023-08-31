@@ -1,4 +1,4 @@
 
 # Hi, I am Jesus Manuel Olivas (jmolivas)
 
-Co-founder at Octahedroid.  Building products related to Jamstack, GraphQL, Cloud, Automation, CMS integrations, NoCode, LowCode & Edge Computing.
+CEO and Co-founder at [@octahedroid](https://octahedroid.com/) and [@graphabase](https://graphabase.com/)
